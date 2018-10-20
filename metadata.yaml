@@ -1,5 +1,5 @@
 _repo: Grace-Harlowe-s-Overland-Riders-on-the-Great-American-Desert_5404
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Vacations -- Juvenile fiction'
 - !lcsh 'Adventure and adventurers -- Juvenile fiction'
 - !lcsh 'Deserts -- Juvenile fiction'
+- GITenberg
 title: Grace Harlowe's Overland Riders on the Great American Desert
 url: http://www.gutenberg.org/ebooks/5404
